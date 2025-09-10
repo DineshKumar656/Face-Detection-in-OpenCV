@@ -46,5 +46,7 @@ python face_detection.py
 ESC key → Exit the program
 
 📸 Demo
-![Uploading Screenshot 2025-09-10 054507.png…]()
+<img width="1910" height="1025" alt="Screenshot 2025-09-10 054507" src="https://github.com/user-attachments/assets/9325dadc-68e8-41bf-8a80-ceb66ab1a422" />
+
+
 
