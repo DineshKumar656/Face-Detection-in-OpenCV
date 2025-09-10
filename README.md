@@ -46,3 +46,5 @@ python face_detection.py
 ESC key → Exit the program
 
 📸 Demo
+![Uploading Screenshot 2025-09-10 054507.png…]()
+
